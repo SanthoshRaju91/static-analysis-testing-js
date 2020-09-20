@@ -1,0 +1,15 @@
+{
+  "name": "eslint-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "keywords": [],
+  "author": "Santhosh Raju",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  }
+}
