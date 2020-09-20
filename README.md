@@ -2,10 +2,9 @@
 
 Static analysis testing for Javascript application from Testing Javascript course.
 
-<br/>
 
 ## Why I did this ??
-Main reason for referencing the configuration for my convenience only. Because I won't be able to access the course when I'm on the VPN and always get confused with the course repo navigation.
+Main reason is, for referencing the configuration for my convenience only. Because I won't be able to access the course content when I'm on the VPN and always get confused with the course repo navigation.
 
 
 ## Navigation
