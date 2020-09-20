@@ -11,6 +11,7 @@ Main reason is, for referencing the configuration for my convenience only. Becau
 
 * [Eslint setup](https://github.com/SanthoshRaju91/static-analysis-testing-js/tree/master/eslint-setup)
 * [Prettier setup](https://github.com/SanthoshRaju91/static-analysis-testing-js/tree/master/prettier-setup) - Read the README.md file inside the folder for instruction on enabling prettier on VS code editor.
+* [Eslint and Prettier configuration](https://github.com/SanthoshRaju91/static-analysis-testing-js/tree/master/eslint-prettier-config)
 
 <br/>
 
