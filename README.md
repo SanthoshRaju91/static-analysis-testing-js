@@ -9,7 +9,7 @@ Main reason is, for referencing the configuration for my convenience only. Becau
 
 ## Navigation
 
-
+[Eslint setup](https://github.com/SanthoshRaju91/static-analysis-testing-js/tree/master/eslint-setup)
 
 <br/>
 
